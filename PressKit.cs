@@ -18,6 +18,17 @@
 	
 #endregion
 
+#region Contact
+	email
+		futureweapon2d@gmail.com
+	instagram
+		https://www.instagram.com/futureweapon2d/
+	Youtube
+		https://www.youtube.com/@ScatterbrainGabe
+		https://www.youtube.com/@ScatterbrainGabePlays
+		https://www.youtube.com/@FutureWeapon2D
+#endregion
+
 #region Features
 	-Online Play: Host and play with your friends
 	-Action packed combat
